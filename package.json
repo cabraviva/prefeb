@@ -1,0 +1,25 @@
+{
+    "name": "webperf",
+    "version": "0.1.0",
+    "description": "⏱️ On the fly performance measurements for your website",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Green_Lab (https://github.com/greencoder001)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/greencoder001/webperf.git"
+    },
+    "bugs": {
+        "url": "https://github.com/greencoder001/webperf/issues"
+    },
+    "homepage": "https://github.com/greencoder001/webperf#readme",
+    "types": "dist/index.d.ts",
+    "devDependencies": {
+        "@types/node": "^20.1.2",
+        "typescript": "^5.0.4"
+    }
+}
