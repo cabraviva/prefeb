@@ -1,6 +1,6 @@
 {
-    "name": "webperf",
-    "version": "0.1.0",
+    "name": "prefeb",
+    "version": "0.1.2",
     "description": "⏱️ On the fly performance measurements for your website",
     "main": "dist/index.js",
     "scripts": {
